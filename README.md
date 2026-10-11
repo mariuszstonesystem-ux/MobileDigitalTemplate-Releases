@@ -1,8 +1,13 @@
-# MobileDigitalTemplate-Releases
+# M Template V1.2.4
 
-Public releases and update files for M Template.
+[Download the full Windows x64 installer](https://github.com/mariuszstonesystem-ux/MobileDigitalTemplate-Releases/releases/download/v1.2.4/M-Template-Setup-1.2.4.exe)
 
-Previous installers have been withdrawn while geometry corrections are being completed and tested.
-No installer is currently available for download. A new release will be published after testing is complete.
+[Release details](https://github.com/mariuszstonesystem-ux/MobileDigitalTemplate-Releases/releases/tag/v1.2.4) · [Installer SHA-256](https://github.com/mariuszstonesystem-ux/MobileDigitalTemplate-Releases/releases/download/v1.2.4/M-Template-Setup-1.2.4.exe.sha256)
 
-Application source code is not published in this repository.
+This is a complete installer for new computers and updates. It includes the application, .NET desktop runtime, corrected geometry, updated Styles, 24 factory Edge profiles and 151 factory Preset Block files.
+
+Installation and updates replace the editable settings and factory libraries with the V1.2.4 defaults. Saved jobs, history, photos, additional custom presets and 6 Site Jobs are kept. The saved jobs location and history retention setting are preserved. Admin Settings includes **Restore Factory Settings 1.2.4**.
+
+V1.2.4 is currently the only published release.
+
+This public repository contains installers and release information. Application source code remains in the private repository.
