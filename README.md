@@ -1,17 +1,17 @@
-# M Template V1.2.6
+# M Template
 
-[Download the full Windows x64 installer](https://github.com/mariuszstonesystem-ux/MobileDigitalTemplate-Releases/releases/download/v1.2.6/M-Template-Setup-1.2.6.exe)
+M Template is Windows software for digital templating and stone-worktop drawing preparation.
 
-[Always open the latest release](https://github.com/mariuszstonesystem-ux/MobileDigitalTemplate-Releases/releases/latest)
+Current version: **V1.2.7**
 
-[Release details](https://github.com/mariuszstonesystem-ux/MobileDigitalTemplate-Releases/releases/tag/v1.2.6) · [Installer SHA-256](https://github.com/mariuszstonesystem-ux/MobileDigitalTemplate-Releases/releases/download/v1.2.6/M-Template-Setup-1.2.6.exe.sha256)
+[Download M Template V1.2.7 for Windows](https://github.com/mariuszstonesystem-ux/MobileDigitalTemplate-Releases/releases/download/v1.2.7/M-Template-Setup-1.2.7.exe)
 
-V1.2.6 includes all recent geometry and drawing-tool fixes, improved Table Factory checks, open-Scan Wall Offset support, improved Circle and Half Ellipse controls, and Enter to save a job.
+[Latest release and SHA-256 checksum](https://github.com/mariuszstonesystem-ux/MobileDigitalTemplate-Releases/releases/latest)
 
-This complete installer supports first installation and updates and includes the .NET desktop runtime. **Updates and reinstalls preserve existing jobs, history, photos, email settings, styles, Edges and Preset Blocks**, including customized files with factory names. Only missing factory files are added. Restore Factory Settings is available as a separate action in Admin Settings.
+You can update directly from V1.2.3 to V1.2.7. Intermediate V1.2.5 and V1.2.6 installations are unnecessary. V1.2.7 includes all previous application fixes and updates recognised older factory Preset Blocks, Edges and drawing/text Styles to the approved corrected versions.
 
-First installation includes 151 approved factory Preset Blocks, 24 Edge profiles, 15 drawing Styles, six text Styles and 58 Quick Text notes. Customer jobs, history, Site Jobs, customer information and email credentials are not bundled.
+Updates preserve Jobs, history, photos, Site Jobs, email settings and contacts, Table settings and saved preferences. Custom drawing/text Styles, Edges and Preset Blocks are retained, including changed files with factory names. Unmodified factory Styles are updated individually, and replaced factory files are backed up in the application's user-data folder.
 
-Check For Update in earlier versions offers V1.2.6. V1.2.6 is the latest stable release.
+A first installation includes 151 factory Preset Blocks, 24 Edges, 15 drawing Styles, six text Styles and 58 Quick Text notes, without customer data.
 
-This public repository contains installers and release information. Application source code remains in the private repository.
+This repository distributes release information, the Windows installer and its checksum. Application source is maintained in a separate private repository.
