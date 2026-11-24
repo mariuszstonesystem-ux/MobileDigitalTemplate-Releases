@@ -2,13 +2,13 @@
 
 M Template is Windows software for digital templating and stone-worktop drawing preparation.
 
-Current version: **V1.2.9**
+Current version: **V1.3.0**
 
 [Download the latest M Template installer for Windows](https://github.com/mariuszstonesystem-ux/MobileDigitalTemplate-Releases/releases/latest/download/M-Template-Setup.exe)
 
 [Latest release, checksums and third-party component sources](https://github.com/mariuszstonesystem-ux/MobileDigitalTemplate-Releases/releases/latest)
 
-[Download V1.2.9 directly](https://github.com/mariuszstonesystem-ux/MobileDigitalTemplate-Releases/releases/download/v1.2.9/M-Template-Setup-1.2.9.exe)
+[Download V1.3.0 directly](https://github.com/mariuszstonesystem-ux/MobileDigitalTemplate-Releases/releases/download/v1.3.0/M-Template-Setup-1.3.0.exe)
 
 You can update directly from an earlier version. Intermediate installations are unnecessary.
 
